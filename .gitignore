@@ -1,0 +1,21 @@
+# Python
+*.pyc
+__pycache__/
+
+# Environment
+.env
+venv/
+*.pkl
+
+# Dataset
+[ecommerce_sample_data.csv](http://_vscodecontentref_/5)
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Node.js
+node_modules/
